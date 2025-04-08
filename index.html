@@ -36,99 +36,52 @@
   </div>
 
   <script>
-    const galleryData = [
-      {
-        title: "Quadrato",
-        creator: "Team",
-        views: "20.4k",
-        likes: 71,
-        image: "assets/quadrato.png"
-      },
-      {
-        title: "Let's Snap!",
-        creator: "Nitish Khagwal",
-        views: "53.5k",
-        likes: 128,
-        image: "assets/snap.png"
-      },
-      {
-        title: "Modern UI Kit",
-        creator: "StudioX",
-        views: "11.2k",
-        likes: 42,
-        image: "assets/quadrato.png"
-      },
-      {
-        title: "Photo App Onboarding",
-        creator: "DesignNest",
-        views: "8.9k",
-        likes: 64,
-        image: "assets/snap.png"
-      },
-      {
-        title: "Minimal Blog Layout",
-        creator: "UIPro",
-        views: "19.8k",
-        likes: 91,
-        image: "assets/quadrato.png"
-      },
-      {
-        title: "Camera Setup Flow",
-        creator: "UXHouse",
-        views: "13.3k",
-        likes: 76,
-        image: "assets/snap.png"
-      },
-      {
-        title: "Portfolio Grid Style",
-        creator: "PixelHub",
-        views: "15.1k",
-        likes: 59,
-        image: "assets/quadrato.png"
-      },
-      {
-        title: "Creative Gallery App",
-        creator: "SnapLab",
-        views: "17.6k",
-        likes: 85,
-        image: "assets/snap.png"
-      }
-    ];
+  async function fetchGalleryData() {
+    try {
+      const response = await fetch('data/dataGallery.json');
+      const data = await response.json();
+      renderCards(data);
+    } catch (error) {
+      console.error("Gagal memuat data galeri:", error);
+    }
+  }
 
-    function renderCards(data) {
-      const container = document.getElementById("galleryContainer");
-      container.innerHTML = "";
-      data.forEach(item => {
-        container.innerHTML += `
-          <div class="col">
-            <div class="card h-100">
-              <div class="card-body text-center">
-                <h5 class="card-title">${item.title}</h5>
-              </div>
-              <img src="${item.image}" class="card-img-top" alt="${item.title}" />
-              <div class="card-body">
-                <p class="card-text">
-                  👤 ${item.creator}<br />
-                  ❤️ ${item.likes} &bull; 👁️ ${item.views}
-                </p>
-              </div>
+  function renderCards(data) {
+    const container = document.getElementById("galleryContainer");
+    container.innerHTML = "";
+    data.forEach(item => {
+      container.innerHTML += `
+        <div class="col">
+          <div class="card h-100">
+            <div class="card-body text-center">
+              <h5 class="card-title">${item.title}</h5>
+            </div>
+            <img src="${item.image}" class="card-img-top" alt="${item.title}" />
+            <div class="card-body">
+              <p class="card-text">
+                👤 ${item.creator}<br />
+                ❤️ ${item.likes} &bull; 👁️ ${item.views}
+              </p>
             </div>
           </div>
-        `;
-      });
-    }
-
-    document.getElementById("searchInput").addEventListener("input", function (e) {
-      const keyword = e.target.value.toLowerCase();
-      const filtered = galleryData.filter(item =>
-        item.title.toLowerCase().includes(keyword) ||
-        item.creator.toLowerCase().includes(keyword)
-      );
-      renderCards(filtered);
+        </div>
+      `;
     });
+  }
 
-    // Initial render
-    renderCards(galleryData);
-  </script>
+  document.getElementById("searchInput").addEventListener("input", async function (e) {
+    const keyword = e.target.value.toLowerCase();
+    const response = await fetch('data/dataGallery.json');
+    const data = await response.json();
+    const filtered = data.filter(item =>
+      item.title.toLowerCase().includes(keyword) ||
+      item.creator.toLowerCase().includes(keyword)
+    );
+    renderCards(filtered);
+  });
+
+  // Muat awal
+  fetchGalleryData();
+</script>
 </body>
 </html>
