@@ -8,7 +8,8 @@ const PORT = process.env.PORT || 3000;
 app.use(cors());
 
 app.get('/dataGallery', (req, res) => {
-  const json = fs.readFileSync('./data/dataGallery.json', 'utf8');
+  const json = fs.readFileSync(new URL('./data/dataGallery.json', import.meta.url), 'utf8');
+  
   res.setHeader('Cache-Control', 'no-store');
   res.json(JSON.parse(json));
 });
