@@ -51,6 +51,7 @@
     form.addEventListener("submit", async (e) => {
       e.preventDefault();
 
+      // Ambil data dari form
       const data = {
         title: document.getElementById("title").value,
         creator: document.getElementById("creator").value,
@@ -60,7 +61,8 @@
       };
 
       try {
-        const res = await fetch("https://datagallery.up.railway.app/dataGallery", {
+        // Endpoint POST HARUS ke /api/add (bukan /dataGallery)
+        const res = await fetch("https://datagallery.up.railway.app/api/add", {
           method: "POST",
           headers: {
             "Content-Type": "application/json"
@@ -72,7 +74,8 @@
           statusMsg.innerHTML = `<span class="text-success">✔️ Data added successfully!</span>`;
           form.reset();
         } else {
-          statusMsg.innerHTML = `<span class="text-danger">❌ Failed to add data</span>`;
+          const errorData = await res.json();
+          statusMsg.innerHTML = `<span class="text-danger">❌ Failed: ${errorData.message || 'Unknown error'}</span>`;
         }
       } catch (err) {
         statusMsg.innerHTML = `<span class="text-danger">⚠️ Error: ${err.message}</span>`;

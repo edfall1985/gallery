@@ -16,8 +16,32 @@
   </style>
 </head>
 <body>
+
+  <script>
+    document.getElementById("galleryform").addEventListener("submit", async function (e) {
+      e.preventDefault();
+  
+      const payload = {
+        title: document.getElementById("title").value,
+        creator: document.getElementById("creator").value,
+        views: document.getElementById("views").value,
+        likes: document.getElementById("likes").value,
+        image: document.getElementById("image").value
+      };
+  
+      const res = await fetch("http://localhost:3100/api/add", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload)
+      });
+  
+      const result = await res.json();
+      alert(result.message || "Data berhasil dikirim!");
+    });
+  </script>
+  
   <div class="container">
-    <h3 class="text-center mb-4">Admin Panel: Add Gallery Item</h3>
+    <h3 class="text-center mb-4">Adm in Panel: Add Gallery Item</h3>
     <form id="galleryForm">
       <div class="mb-3">
         <label class="form-label">Title</label>
