@@ -35,7 +35,11 @@
     </div>
   </div>
 
-  <script>
+  <script>    
+    // Ini bikin browser selalu ambil versi terbaru, bukan cache
+    const response = await fetch(`data/dataGallery.json?time=${Date.now()}`);
+    // 
+    
     async function fetchGalleryData() {
       try {
         const response = await fetch('data/dataGallery.json');
