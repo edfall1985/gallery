@@ -61,9 +61,11 @@
         container.innerHTML += `
           <div class="col-md-4 mb-4">
             <div class="card">
+              <div class="card-body text-center">
+                <h5 class="card-title">${item.title}</h5>
+              </div>
               <img src="${item.image}" class="card-img-top" alt="${item.title}" />
               <div class="card-body">
-                <h5 class="card-title">${item.title}</h5>
                 <p class="card-text">
                   👤 ${item.creator}<br />
                   ❤️ ${item.likes} &bull; 👁️ ${item.views}
@@ -83,8 +85,6 @@
       );
       renderCards(filtered);
     });
-
-    
 
     // Initial render
     renderCards(galleryData);
