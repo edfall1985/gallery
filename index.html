@@ -62,4 +62,32 @@
               <div class="card-body">
                 <p class="card-text">
                   👤 ${item.creator}<br />
-                  ❤️ ${item.likes
+                  ❤️ ${item.likes} &bull; 👁️ ${item.views}
+                </p>
+              </div>
+            </div>
+          </div>
+        `;
+      });
+    }
+
+    document.getElementById("searchInput").addEventListener("input", async function (e) {
+      const keyword = e.target.value.toLowerCase();
+      try {
+        const response = await fetch(dataURL);
+        const data = await response.json();
+        const filtered = data.filter(item =>
+          item.title.toLowerCase().includes(keyword) ||
+          item.creator.toLowerCase().includes(keyword)
+        );
+        renderCards(filtered);
+      } catch (error) {
+        console.error("Gagal memuat data saat pencarian:", error);
+      }
+    });
+
+    // Load initial gallery
+    fetchGalleryData();
+  </script>
+</body>
+</html>
