@@ -4,14 +4,16 @@ assetPathPrefix = path relatif menuju folder assets dari posisi file HTML
   - Contoh: "../" jika file ada di dalam folder /data
   - Contoh: "" jika file HTML ada di root folder
 
-(opsional next)
-dataSource = "api" | "local"
-  - Menentukan sumber data (backend API atau data lokal)
+# OPSIONAL FIELD (untuk dikembangkan selanjutnya)
 
-apiEndpoint = URL endpoint data jika menggunakan mode "api"
+dataSource = "api" | "local"
+  - Menentukan sumber data (backend API atau file lokal di repo)
+
+apiEndpoint = URL endpoint JSON jika menggunakan mode "api"
+  - Contoh: "https://datagallery.up.railway.app/dataGallery"
 
 theme = "light" | "dark"
-  - Default tema UI
+  - Tema UI default saat pertama kali dibuka
 
 requireLogin = true | false
-  - Apakah halaman admin membutuhkan login
+  - Apakah halaman admin perlu login sebelum akses
