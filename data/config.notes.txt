@@ -1,0 +1,17 @@
+# CONFIG EXPLANATION
+
+assetPathPrefix = path relatif menuju folder assets dari posisi file HTML
+  - Contoh: "../" jika file ada di dalam folder /data
+  - Contoh: "" jika file HTML ada di root folder
+
+(opsional next)
+dataSource = "api" | "local"
+  - Menentukan sumber data (backend API atau data lokal)
+
+apiEndpoint = URL endpoint data jika menggunakan mode "api"
+
+theme = "light" | "dark"
+  - Default tema UI
+
+requireLogin = true | false
+  - Apakah halaman admin membutuhkan login
