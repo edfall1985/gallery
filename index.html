@@ -35,14 +35,10 @@
     </div>
   </div>
 
-  <script>    
-    // Ini bikin browser selalu ambil versi terbaru, bukan cache
-    const response = await fetch(`data/dataGallery.json?time=${Date.now()}`);
-    // 
-    
+  <script>
     async function fetchGalleryData() {
       try {
-        const response = await fetch('data/dataGallery.json');
+        const response = await fetch(`data/dataGallery.json?time=${Date.now()}`);
         const data = await response.json();
         renderCards(data);
       } catch (error) {
@@ -76,7 +72,7 @@
     document.getElementById("searchInput").addEventListener("input", async function (e) {
       const keyword = e.target.value.toLowerCase();
       try {
-        const response = await fetch('data/dataGallery.json');
+        const response = await fetch(`data/dataGallery.json?time=${Date.now()}`);
         const data = await response.json();
         const filtered = data.filter(item =>
           item.title.toLowerCase().includes(keyword) ||
