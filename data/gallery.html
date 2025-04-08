@@ -55,11 +55,9 @@
         container.innerHTML += `
           <div class="col">
             <div class="card h-100">
+              <img src="${fixImagePath(item.image)}" class="card-img-top" alt="${item.title}" />
               <div class="card-body text-center">
                 <h5 class="card-title">${item.title}</h5>
-              </div>
-              <img src="${item.image}" class="card-img-top" alt="${item.title}" />
-              <div class="card-body">
                 <p class="card-text">
                   👤 ${item.creator}<br />
                   ❤️ ${item.likes} &bull; 👁️ ${item.views}
@@ -69,6 +67,14 @@
           </div>
         `;
       });
+    }
+
+    function fixImagePath(path) {
+      // Jika gallery.html berada di /data/, naik 1 folder ke root
+      if (path.startsWith("assets/")) {
+        return "../" + path;
+      }
+      return path;
     }
 
     document.getElementById("searchInput").addEventListener("input", async function (e) {
