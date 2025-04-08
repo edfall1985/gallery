@@ -1,6 +1,3 @@
-//Setting path gambar Data Gallery
-
 {
-  // Prefix untuk path folder asset, relatif terhadap file HTML yang sedang digunakan
   "assetPathPrefix": "../"
 }
