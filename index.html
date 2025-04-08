@@ -30,7 +30,7 @@
       />
     </div>
 
-    <div class="row" id="galleryContainer">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4" id="galleryContainer">
       <!-- Cards will be injected here -->
     </div>
   </div>
@@ -100,8 +100,8 @@
       container.innerHTML = "";
       data.forEach(item => {
         container.innerHTML += `
-          <div class="col-md-4 mb-4">
-            <div class="card">
+          <div class="col">
+            <div class="card h-100">
               <div class="card-body text-center">
                 <h5 class="card-title">${item.title}</h5>
               </div>
