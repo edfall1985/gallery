@@ -1,0 +1,84 @@
+// Berikut contoh dataGallery.json versi update dengan dukungan filter kategori (dinamis), tag (wajib), dan created_at
+[
+    {
+      "title": "Kekuatan Niat dalam Hijrah",
+      "description": "Sebuah refleksi mendalam tentang pentingnya niat ketika meninggalkan masa lalu.",
+      "image": "assets/img/hijrah1.jpg",
+      "category": "Religi",
+      "tags": ["hijrah", "niat", "taubat"],
+      "created_at": "2025-04-09"
+    },
+    {
+      "title": "Belajar dari Kesalahan Masa Lalu",
+      "description": "Perjalanan menuju kebaikan dimulai dari pengakuan kesalahan.",
+      "image": "assets/img/masa-lalu.jpg",
+      "category": "Motivasi",
+      "tags": ["perubahan", "kesalahan", "hijrah"],
+      "created_at": "2025-04-08"
+    },
+    {
+      "title": "Pentingnya Ilmu Sebelum Berdakwah",
+      "description": "Dakwah bukan sekadar niat baik, tapi juga ilmu yang benar.",
+      "image": "assets/img/dakwah-ilmu.jpg",
+      "category": "Edukasi",
+      "tags": ["dakwah", "ilmu", "persiapan"],
+      "created_at": "2025-04-07"
+    },
+    {
+      "title": "Kritik Lembut untuk Penguasa",
+      "description": "Cara bijak menyampaikan kritik tanpa kehilangan adab.",
+      "image": "assets/img/kritik-penguasa.jpg",
+      "category": "Politik",
+      "tags": ["kritik", "adab", "pemimpin"],
+      "created_at": "2025-04-06"
+    },
+    {
+      "title": "Menemukan Kembali Semangat Iman",
+      "description": "Ketika futur menyerang, saatnya kembali memperbarui iman.",
+      "image": "assets/img/futur.jpg",
+      "category": "Religi",
+      "tags": ["iman", "futur", "semangat"],
+      "created_at": "2025-04-05"
+    },
+    {
+      "title": "Tips Menjaga Konsistensi dalam Kebaikan",
+      "description": "Konsistensi itu bukan karena kuat, tapi karena terus bangkit.",
+      "image": "assets/img/konsisten.jpg",
+      "category": "Motivasi",
+      "tags": ["istiqomah", "kebaikan", "bangkit"],
+      "created_at": "2025-04-04"
+    },
+    {
+      "title": "Bahaya Ketidaktahuan dalam Beragama",
+      "description": "Agama tanpa ilmu bisa berbahaya bagi diri dan orang lain.",
+      "image": "assets/img/kebodohan.jpg",
+      "category": "Edukasi",
+      "tags": ["ilmu", "agama", "kebodohan"],
+      "created_at": "2025-04-03"
+    },
+    {
+      "title": "Jangan Pernah Remehkan Kebaikan Kecil",
+      "description": "Senyum dan salam bisa jadi pembuka hidayah bagi orang lain.",
+      "image": "assets/img/kebaikan-kecil.jpg",
+      "category": "Religi",
+      "tags": ["kebaikan", "senyum", "amal"],
+      "created_at": "2025-04-02"
+    },
+    {
+      "title": "Bangkit dari Masa Gelap",
+      "description": "Setiap orang punya masa lalu, tapi tak semua mau bangkit.",
+      "image": "assets/img/gelap.jpg",
+      "category": "Motivasi",
+      "tags": ["gelap", "bangkit", "motivasi"],
+      "created_at": "2025-04-01"
+    },
+    {
+      "title": "Menghidupkan Sunnah di Era Digital",
+      "description": "Konten positif bisa jadi ladang pahala kalau diniatkan lillah.",
+      "image": "assets/img/sunnah-digital.jpg",
+      "category": "Religi",
+      "tags": ["sunnah", "konten", "digital"],
+      "created_at": "2025-03-31"
+    }
+  ]
+  

@@ -1,0 +1,402 @@
+[
+  {
+    "kategori": "Teknologi & Inovasi",
+    "gambar": "https://images.unsplash.com/photo-1581090700227-1e8e1f09f361?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Teknologi & Inovasi",
+    "gambar": "https://images.unsplash.com/photo-1614064641938-bcc4bbaa5221?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Teknologi & Inovasi",
+    "gambar": "https://images.unsplash.com/photo-1537432376769-00a2b38cb0da?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Teknologi & Inovasi",
+    "gambar": "https://images.unsplash.com/photo-1581092919534-535362a1d793?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Teknologi & Inovasi",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Pendidikan & Literasi",
+    "gambar": "https://images.unsplash.com/photo-1549921296-3a6b22370d47?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Pendidikan & Literasi",
+    "gambar": "https://images.unsplash.com/photo-1618005198919-d3d4b5a92c65?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Pendidikan & Literasi",
+    "gambar": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Pendidikan & Literasi",
+    "gambar": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Pendidikan & Literasi",
+    "gambar": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Kesehatan & Gaya Hidup",
+    "gambar": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Kesehatan & Gaya Hidup",
+    "gambar": "https://images.unsplash.com/photo-1558898568-42e91881c3d5?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Kesehatan & Gaya Hidup",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Kesehatan & Gaya Hidup",
+    "gambar": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Kesehatan & Gaya Hidup",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Ekonomi & Keuangan",
+    "gambar": "https://images.unsplash.com/photo-1573497019414-b8d87734a5a2?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Ekonomi & Keuangan",
+    "gambar": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Ekonomi & Keuangan",
+    "gambar": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Ekonomi & Keuangan",
+    "gambar": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Ekonomi & Keuangan",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Politik & Pemerintahan",
+    "gambar": "https://images.unsplash.com/photo-1581090700227-1e8e1f09f361?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Politik & Pemerintahan",
+    "gambar": "https://images.unsplash.com/photo-1614064641938-bcc4bbaa5221?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Politik & Pemerintahan",
+    "gambar": "https://images.unsplash.com/photo-1537432376769-00a2b38cb0da?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Politik & Pemerintahan",
+    "gambar": "https://images.unsplash.com/photo-1581092919534-535362a1d793?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Politik & Pemerintahan",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Lingkungan & Energi",
+    "gambar": "https://images.unsplash.com/photo-1549921296-3a6b22370d47?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Lingkungan & Energi",
+    "gambar": "https://images.unsplash.com/photo-1618005198919-d3d4b5a92c65?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Lingkungan & Energi",
+    "gambar": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Lingkungan & Energi",
+    "gambar": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Lingkungan & Energi",
+    "gambar": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Seni & Kreativitas",
+    "gambar": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Seni & Kreativitas",
+    "gambar": "https://images.unsplash.com/photo-1558898568-42e91881c3d5?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Seni & Kreativitas",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Seni & Kreativitas",
+    "gambar": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Seni & Kreativitas",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Sejarah & Budaya",
+    "gambar": "https://images.unsplash.com/photo-1573497019414-b8d87734a5a2?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Sejarah & Budaya",
+    "gambar": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Sejarah & Budaya",
+    "gambar": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Sejarah & Budaya",
+    "gambar": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Sejarah & Budaya",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Hukum & HAM",
+    "gambar": "https://images.unsplash.com/photo-1581090700227-1e8e1f09f361?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Hukum & HAM",
+    "gambar": "https://images.unsplash.com/photo-1614064641938-bcc4bbaa5221?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Hukum & HAM",
+    "gambar": "https://images.unsplash.com/photo-1537432376769-00a2b38cb0da?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Hukum & HAM",
+    "gambar": "https://images.unsplash.com/photo-1581092919534-535362a1d793?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Hukum & HAM",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Karier & Produktivitas",
+    "gambar": "https://images.unsplash.com/photo-1549921296-3a6b22370d47?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Karier & Produktivitas",
+    "gambar": "https://images.unsplash.com/photo-1618005198919-d3d4b5a92c65?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Karier & Produktivitas",
+    "gambar": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Karier & Produktivitas",
+    "gambar": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Karier & Produktivitas",
+    "gambar": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Relasi & Psikologi",
+    "gambar": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Relasi & Psikologi",
+    "gambar": "https://images.unsplash.com/photo-1558898568-42e91881c3d5?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Relasi & Psikologi",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Relasi & Psikologi",
+    "gambar": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Relasi & Psikologi",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Media & Komunikasi",
+    "gambar": "https://images.unsplash.com/photo-1573497019414-b8d87734a5a2?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Media & Komunikasi",
+    "gambar": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Media & Komunikasi",
+    "gambar": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Media & Komunikasi",
+    "gambar": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Media & Komunikasi",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Agama & Spiritualitas",
+    "gambar": "https://images.unsplash.com/photo-1581090700227-1e8e1f09f361?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Agama & Spiritualitas",
+    "gambar": "https://images.unsplash.com/photo-1614064641938-bcc4bbaa5221?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Agama & Spiritualitas",
+    "gambar": "https://images.unsplash.com/photo-1537432376769-00a2b38cb0da?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Agama & Spiritualitas",
+    "gambar": "https://images.unsplash.com/photo-1581092919534-535362a1d793?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Agama & Spiritualitas",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Startup & Wirausaha",
+    "gambar": "https://images.unsplash.com/photo-1549921296-3a6b22370d47?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Startup & Wirausaha",
+    "gambar": "https://images.unsplash.com/photo-1618005198919-d3d4b5a92c65?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Startup & Wirausaha",
+    "gambar": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Startup & Wirausaha",
+    "gambar": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Startup & Wirausaha",
+    "gambar": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Transportasi & Infrastruktur",
+    "gambar": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Transportasi & Infrastruktur",
+    "gambar": "https://images.unsplash.com/photo-1558898568-42e91881c3d5?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Transportasi & Infrastruktur",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Transportasi & Infrastruktur",
+    "gambar": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Transportasi & Infrastruktur",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Keamanan & Digital Forensik",
+    "gambar": "https://images.unsplash.com/photo-1573497019414-b8d87734a5a2?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Keamanan & Digital Forensik",
+    "gambar": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Keamanan & Digital Forensik",
+    "gambar": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Keamanan & Digital Forensik",
+    "gambar": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Keamanan & Digital Forensik",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Pangan & Pertanian",
+    "gambar": "https://images.unsplash.com/photo-1581090700227-1e8e1f09f361?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Pangan & Pertanian",
+    "gambar": "https://images.unsplash.com/photo-1614064641938-bcc4bbaa5221?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Pangan & Pertanian",
+    "gambar": "https://images.unsplash.com/photo-1537432376769-00a2b38cb0da?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Pangan & Pertanian",
+    "gambar": "https://images.unsplash.com/photo-1581092919534-535362a1d793?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Pangan & Pertanian",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Kepemimpinan & Kepemudaan",
+    "gambar": "https://images.unsplash.com/photo-1549921296-3a6b22370d47?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Kepemimpinan & Kepemudaan",
+    "gambar": "https://images.unsplash.com/photo-1618005198919-d3d4b5a92c65?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Kepemimpinan & Kepemudaan",
+    "gambar": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Kepemimpinan & Kepemudaan",
+    "gambar": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Kepemimpinan & Kepemudaan",
+    "gambar": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Sosial & Masyarakat",
+    "gambar": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Sosial & Masyarakat",
+    "gambar": "https://images.unsplash.com/photo-1558898568-42e91881c3d5?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Sosial & Masyarakat",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Sosial & Masyarakat",
+    "gambar": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Sosial & Masyarakat",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Inklusi & Kesetaraan",
+    "gambar": "https://images.unsplash.com/photo-1573497019414-b8d87734a5a2?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Inklusi & Kesetaraan",
+    "gambar": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Inklusi & Kesetaraan",
+    "gambar": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Inklusi & Kesetaraan",
+    "gambar": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=640&q=80&fit=crop"
+  },
+  {
+    "kategori": "Inklusi & Kesetaraan",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=640&q=80&fit=crop"
+  }
+]

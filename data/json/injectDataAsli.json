@@ -1,0 +1,602 @@
+[
+  {
+    "judul": "Masa Depan Kecerdasan Buatan",
+    "deskripsi": "Masa Depan Kecerdasan Buatan. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Teknologi & Inovasi",
+    "gambar": "https://images.unsplash.com/photo-151000"
+  },
+  {
+    "judul": "Blockchain di Luar Kripto",
+    "deskripsi": "Blockchain di Luar Kripto. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Teknologi & Inovasi",
+    "gambar": "https://images.unsplash.com/photo-151001"
+  },
+  {
+    "judul": "Revolusi 6G",
+    "deskripsi": "Revolusi 6G. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Teknologi & Inovasi",
+    "gambar": "https://images.unsplash.com/photo-151002"
+  },
+  {
+    "judul": "Robotika dalam Kehidupan Sehari-hari",
+    "deskripsi": "Robotika dalam Kehidupan Sehari-hari. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Teknologi & Inovasi",
+    "gambar": "https://images.unsplash.com/photo-151003"
+  },
+  {
+    "judul": "Inovasi Startup 2025",
+    "deskripsi": "Inovasi Startup 2025. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Teknologi & Inovasi",
+    "gambar": "https://images.unsplash.com/photo-151004"
+  },
+  {
+    "judul": "Belajar Tanpa Batas",
+    "deskripsi": "Belajar Tanpa Batas. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Pendidikan & Literasi",
+    "gambar": "https://images.unsplash.com/photo-151005"
+  },
+  {
+    "judul": "Sekolah Digital vs Konvensional",
+    "deskripsi": "Sekolah Digital vs Konvensional. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Pendidikan & Literasi",
+    "gambar": "https://images.unsplash.com/photo-151006"
+  },
+  {
+    "judul": "Literasi Finansial Remaja",
+    "deskripsi": "Literasi Finansial Remaja. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Pendidikan & Literasi",
+    "gambar": "https://images.unsplash.com/photo-151007"
+  },
+  {
+    "judul": "Pendidikan Emosional",
+    "deskripsi": "Pendidikan Emosional. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Pendidikan & Literasi",
+    "gambar": "https://images.unsplash.com/photo-151008"
+  },
+  {
+    "judul": "Membaca Zaman Sekarang",
+    "deskripsi": "Membaca Zaman Sekarang. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Pendidikan & Literasi",
+    "gambar": "https://images.unsplash.com/photo-151009"
+  },
+  {
+    "judul": "Rahasia Pola Tidur Baik",
+    "deskripsi": "Rahasia Pola Tidur Baik. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Kesehatan & Gaya Hidup",
+    "gambar": "https://images.unsplash.com/photo-151010"
+  },
+  {
+    "judul": "Mental Health Bukan Sekadar Trend",
+    "deskripsi": "Mental Health Bukan Sekadar Trend. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Kesehatan & Gaya Hidup",
+    "gambar": "https://images.unsplash.com/photo-151011"
+  },
+  {
+    "judul": "Hidup Sehat di Era Digital",
+    "deskripsi": "Hidup Sehat di Era Digital. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Kesehatan & Gaya Hidup",
+    "gambar": "https://images.unsplash.com/photo-151012"
+  },
+  {
+    "judul": "Makanan Fungsional",
+    "deskripsi": "Makanan Fungsional. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Kesehatan & Gaya Hidup",
+    "gambar": "https://images.unsplash.com/photo-151013"
+  },
+  {
+    "judul": "Work-Life Balance",
+    "deskripsi": "Work-Life Balance. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Kesehatan & Gaya Hidup",
+    "gambar": "https://images.unsplash.com/photo-151014"
+  },
+  {
+    "judul": "Masa Depan Uang Digital",
+    "deskripsi": "Masa Depan Uang Digital. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Ekonomi & Keuangan",
+    "gambar": "https://images.unsplash.com/photo-151015"
+  },
+  {
+    "judul": "Ekonomi Kreatif di Desa",
+    "deskripsi": "Ekonomi Kreatif di Desa. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Ekonomi & Keuangan",
+    "gambar": "https://images.unsplash.com/photo-151016"
+  },
+  {
+    "judul": "Tips Finansial Gen Z",
+    "deskripsi": "Tips Finansial Gen Z. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Ekonomi & Keuangan",
+    "gambar": "https://images.unsplash.com/photo-151017"
+  },
+  {
+    "judul": "Mengenal ESG Investing",
+    "deskripsi": "Mengenal ESG Investing. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Ekonomi & Keuangan",
+    "gambar": "https://images.unsplash.com/photo-151018"
+  },
+  {
+    "judul": "Bisnis Tanpa Modal",
+    "deskripsi": "Bisnis Tanpa Modal. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Ekonomi & Keuangan",
+    "gambar": "https://images.unsplash.com/photo-151019"
+  },
+  {
+    "judul": "Generasi Muda dan Pemilu",
+    "deskripsi": "Generasi Muda dan Pemilu. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Politik & Pemerintahan",
+    "gambar": "https://images.unsplash.com/photo-151020"
+  },
+  {
+    "judul": "Digitalisasi Layanan Publik",
+    "deskripsi": "Digitalisasi Layanan Publik. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Politik & Pemerintahan",
+    "gambar": "https://images.unsplash.com/photo-151021"
+  },
+  {
+    "judul": "Hoaks Politik: Siapa Diuntungkan?",
+    "deskripsi": "Hoaks Politik: Siapa Diuntungkan?. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Politik & Pemerintahan",
+    "gambar": "https://images.unsplash.com/photo-151022"
+  },
+  {
+    "judul": "Politik Uang di Era Cashless",
+    "deskripsi": "Politik Uang di Era Cashless. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Politik & Pemerintahan",
+    "gambar": "https://images.unsplash.com/photo-151023"
+  },
+  {
+    "judul": "Kritik vs Nyinyir",
+    "deskripsi": "Kritik vs Nyinyir. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Politik & Pemerintahan",
+    "gambar": "https://images.unsplash.com/photo-151024"
+  },
+  {
+    "judul": "Energi Terbarukan Rumah Tangga",
+    "deskripsi": "Energi Terbarukan Rumah Tangga. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Lingkungan & Energi",
+    "gambar": "https://images.unsplash.com/photo-151025"
+  },
+  {
+    "judul": "Hijau Itu Keren",
+    "deskripsi": "Hijau Itu Keren. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Lingkungan & Energi",
+    "gambar": "https://images.unsplash.com/photo-151026"
+  },
+  {
+    "judul": "Solusi Krisis Air",
+    "deskripsi": "Solusi Krisis Air. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Lingkungan & Energi",
+    "gambar": "https://images.unsplash.com/photo-151027"
+  },
+  {
+    "judul": "Pertanian Berbasis Teknologi",
+    "deskripsi": "Pertanian Berbasis Teknologi. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Lingkungan & Energi",
+    "gambar": "https://images.unsplash.com/photo-151028"
+  },
+  {
+    "judul": "Sampah: Musuh atau Aset?",
+    "deskripsi": "Sampah: Musuh atau Aset?. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Lingkungan & Energi",
+    "gambar": "https://images.unsplash.com/photo-151029"
+  },
+  {
+    "judul": "Seniman Era Digital",
+    "deskripsi": "Seniman Era Digital. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Seni & Kreativitas",
+    "gambar": "https://images.unsplash.com/photo-151030"
+  },
+  {
+    "judul": "NFT: Seni atau Spekulasi?",
+    "deskripsi": "NFT: Seni atau Spekulasi?. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Seni & Kreativitas",
+    "gambar": "https://images.unsplash.com/photo-151031"
+  },
+  {
+    "judul": "Menulis di Tengah Kebisingan",
+    "deskripsi": "Menulis di Tengah Kebisingan. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Seni & Kreativitas",
+    "gambar": "https://images.unsplash.com/photo-151032"
+  },
+  {
+    "judul": "Fotografi Emosional",
+    "deskripsi": "Fotografi Emosional. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Seni & Kreativitas",
+    "gambar": "https://images.unsplash.com/photo-151033"
+  },
+  {
+    "judul": "Desain Grafis untuk Aktivisme",
+    "deskripsi": "Desain Grafis untuk Aktivisme. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Seni & Kreativitas",
+    "gambar": "https://images.unsplash.com/photo-151034"
+  },
+  {
+    "judul": "Majapahit 4.0?",
+    "deskripsi": "Majapahit 4.0?. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Sejarah & Budaya",
+    "gambar": "https://images.unsplash.com/photo-151035"
+  },
+  {
+    "judul": "Warisan Budaya Digital",
+    "deskripsi": "Warisan Budaya Digital. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Sejarah & Budaya",
+    "gambar": "https://images.unsplash.com/photo-151036"
+  },
+  {
+    "judul": "Membaca Sejarah dari Meme",
+    "deskripsi": "Membaca Sejarah dari Meme. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Sejarah & Budaya",
+    "gambar": "https://images.unsplash.com/photo-151037"
+  },
+  {
+    "judul": "Tradisi vs Tren",
+    "deskripsi": "Tradisi vs Tren. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Sejarah & Budaya",
+    "gambar": "https://images.unsplash.com/photo-151038"
+  },
+  {
+    "judul": "Generasi Baru Pencinta Museum",
+    "deskripsi": "Generasi Baru Pencinta Museum. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Sejarah & Budaya",
+    "gambar": "https://images.unsplash.com/photo-151039"
+  },
+  {
+    "judul": "Hak Digital Warga Negara",
+    "deskripsi": "Hak Digital Warga Negara. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Hukum & HAM",
+    "gambar": "https://images.unsplash.com/photo-151040"
+  },
+  {
+    "judul": "Perlindungan Data Pribadi",
+    "deskripsi": "Perlindungan Data Pribadi. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Hukum & HAM",
+    "gambar": "https://images.unsplash.com/photo-151041"
+  },
+  {
+    "judul": "Hukum vs Etika Internet",
+    "deskripsi": "Hukum vs Etika Internet. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Hukum & HAM",
+    "gambar": "https://images.unsplash.com/photo-151042"
+  },
+  {
+    "judul": "Keadilan Restoratif",
+    "deskripsi": "Keadilan Restoratif. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Hukum & HAM",
+    "gambar": "https://images.unsplash.com/photo-151043"
+  },
+  {
+    "judul": "Mengakses Bantuan Hukum",
+    "deskripsi": "Mengakses Bantuan Hukum. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Hukum & HAM",
+    "gambar": "https://images.unsplash.com/photo-151044"
+  },
+  {
+    "judul": "Remote Kerja, Remote Tujuan?",
+    "deskripsi": "Remote Kerja, Remote Tujuan?. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Karier & Produktivitas",
+    "gambar": "https://images.unsplash.com/photo-151045"
+  },
+  {
+    "judul": "Skill Penting 2025",
+    "deskripsi": "Skill Penting 2025. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Karier & Produktivitas",
+    "gambar": "https://images.unsplash.com/photo-151046"
+  },
+  {
+    "judul": "Portfolio Digital vs CV",
+    "deskripsi": "Portfolio Digital vs CV. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Karier & Produktivitas",
+    "gambar": "https://images.unsplash.com/photo-151047"
+  },
+  {
+    "judul": "Belajar Otodidak Itu Sah",
+    "deskripsi": "Belajar Otodidak Itu Sah. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Karier & Produktivitas",
+    "gambar": "https://images.unsplash.com/photo-151048"
+  },
+  {
+    "judul": "Pekerja atau Kreator?",
+    "deskripsi": "Pekerja atau Kreator?. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Karier & Produktivitas",
+    "gambar": "https://images.unsplash.com/photo-151049"
+  },
+  {
+    "judul": "Emosi di Era Emoji",
+    "deskripsi": "Emosi di Era Emoji. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Relasi & Psikologi",
+    "gambar": "https://images.unsplash.com/photo-151050"
+  },
+  {
+    "judul": "Bertumbuh Bersama",
+    "deskripsi": "Bertumbuh Bersama. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Relasi & Psikologi",
+    "gambar": "https://images.unsplash.com/photo-151051"
+  },
+  {
+    "judul": "Toxic Positivity?",
+    "deskripsi": "Toxic Positivity?. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Relasi & Psikologi",
+    "gambar": "https://images.unsplash.com/photo-151052"
+  },
+  {
+    "judul": "Kenali Dirimu Dulu",
+    "deskripsi": "Kenali Dirimu Dulu. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Relasi & Psikologi",
+    "gambar": "https://images.unsplash.com/photo-151053"
+  },
+  {
+    "judul": "Mencintai Tanpa Menghancurkan",
+    "deskripsi": "Mencintai Tanpa Menghancurkan. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Relasi & Psikologi",
+    "gambar": "https://images.unsplash.com/photo-151054"
+  },
+  {
+    "judul": "Podcast vs Radio",
+    "deskripsi": "Podcast vs Radio. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Media & Komunikasi",
+    "gambar": "https://images.unsplash.com/photo-151055"
+  },
+  {
+    "judul": "Bahasa di Media Sosial",
+    "deskripsi": "Bahasa di Media Sosial. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Media & Komunikasi",
+    "gambar": "https://images.unsplash.com/photo-151056"
+  },
+  {
+    "judul": "Clickbait dan Etika",
+    "deskripsi": "Clickbait dan Etika. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Media & Komunikasi",
+    "gambar": "https://images.unsplash.com/photo-151057"
+  },
+  {
+    "judul": "Jurnalisme Warga",
+    "deskripsi": "Jurnalisme Warga. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Media & Komunikasi",
+    "gambar": "https://images.unsplash.com/photo-151058"
+  },
+  {
+    "judul": "Algoritma dan Perpecahan",
+    "deskripsi": "Algoritma dan Perpecahan. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Media & Komunikasi",
+    "gambar": "https://images.unsplash.com/photo-151059"
+  },
+  {
+    "judul": "Hijrah Digital",
+    "deskripsi": "Hijrah Digital. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Agama & Spiritualitas",
+    "gambar": "https://images.unsplash.com/photo-151060"
+  },
+  {
+    "judul": "Doa di Dunia AI",
+    "deskripsi": "Doa di Dunia AI. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Agama & Spiritualitas",
+    "gambar": "https://images.unsplash.com/photo-151061"
+  },
+  {
+    "judul": "Toleransi Sehari-hari",
+    "deskripsi": "Toleransi Sehari-hari. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Agama & Spiritualitas",
+    "gambar": "https://images.unsplash.com/photo-151062"
+  },
+  {
+    "judul": "Ritual dan Refleksi",
+    "deskripsi": "Ritual dan Refleksi. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Agama & Spiritualitas",
+    "gambar": "https://images.unsplash.com/photo-151063"
+  },
+  {
+    "judul": "Agama di Linimasa",
+    "deskripsi": "Agama di Linimasa. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Agama & Spiritualitas",
+    "gambar": "https://images.unsplash.com/photo-151064"
+  },
+  {
+    "judul": "Membangun dari Nol",
+    "deskripsi": "Membangun dari Nol. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Startup & Wirausaha",
+    "gambar": "https://images.unsplash.com/photo-151065"
+  },
+  {
+    "judul": "Startup Sosial",
+    "deskripsi": "Startup Sosial. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Startup & Wirausaha",
+    "gambar": "https://images.unsplash.com/photo-151066"
+  },
+  {
+    "judul": "Investor Pemula",
+    "deskripsi": "Investor Pemula. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Startup & Wirausaha",
+    "gambar": "https://images.unsplash.com/photo-151067"
+  },
+  {
+    "judul": "Pitch Deck yang Menjual",
+    "deskripsi": "Pitch Deck yang Menjual. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Startup & Wirausaha",
+    "gambar": "https://images.unsplash.com/photo-151068"
+  },
+  {
+    "judul": "Failure Story yang Jujur",
+    "deskripsi": "Failure Story yang Jujur. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Startup & Wirausaha",
+    "gambar": "https://images.unsplash.com/photo-151069"
+  },
+  {
+    "judul": "Mobil Listrik dan Kita",
+    "deskripsi": "Mobil Listrik dan Kita. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Transportasi & Infrastruktur",
+    "gambar": "https://images.unsplash.com/photo-151070"
+  },
+  {
+    "judul": "Jalan Pintar Kota Besar",
+    "deskripsi": "Jalan Pintar Kota Besar. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Transportasi & Infrastruktur",
+    "gambar": "https://images.unsplash.com/photo-151071"
+  },
+  {
+    "judul": "Transportasi Aman untuk Semua",
+    "deskripsi": "Transportasi Aman untuk Semua. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Transportasi & Infrastruktur",
+    "gambar": "https://images.unsplash.com/photo-151072"
+  },
+  {
+    "judul": "Smart City Itu Nyata?",
+    "deskripsi": "Smart City Itu Nyata?. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Transportasi & Infrastruktur",
+    "gambar": "https://images.unsplash.com/photo-151073"
+  },
+  {
+    "judul": "Desain Ramah Disabilitas",
+    "deskripsi": "Desain Ramah Disabilitas. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Transportasi & Infrastruktur",
+    "gambar": "https://images.unsplash.com/photo-151074"
+  },
+  {
+    "judul": "Jejakmu di Internet",
+    "deskripsi": "Jejakmu di Internet. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Keamanan & Digital Forensik",
+    "gambar": "https://images.unsplash.com/photo-151075"
+  },
+  {
+    "judul": "Etika Hacking",
+    "deskripsi": "Etika Hacking. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Keamanan & Digital Forensik",
+    "gambar": "https://images.unsplash.com/photo-151076"
+  },
+  {
+    "judul": "Deepfake: Ancaman Baru",
+    "deskripsi": "Deepfake: Ancaman Baru. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Keamanan & Digital Forensik",
+    "gambar": "https://images.unsplash.com/photo-151077"
+  },
+  {
+    "judul": "Keamanan untuk UMKM",
+    "deskripsi": "Keamanan untuk UMKM. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Keamanan & Digital Forensik",
+    "gambar": "https://images.unsplash.com/photo-151078"
+  },
+  {
+    "judul": "Forensik Digital: Fakta atau Fiksi?",
+    "deskripsi": "Forensik Digital: Fakta atau Fiksi?. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Keamanan & Digital Forensik",
+    "gambar": "https://images.unsplash.com/photo-151079"
+  },
+  {
+    "judul": "Urban Farming Gaya Baru",
+    "deskripsi": "Urban Farming Gaya Baru. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Pangan & Pertanian",
+    "gambar": "https://images.unsplash.com/photo-151080"
+  },
+  {
+    "judul": "Pangan Lokal Itu Keren",
+    "deskripsi": "Pangan Lokal Itu Keren. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Pangan & Pertanian",
+    "gambar": "https://images.unsplash.com/photo-151081"
+  },
+  {
+    "judul": "Petani Milenial",
+    "deskripsi": "Petani Milenial. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Pangan & Pertanian",
+    "gambar": "https://images.unsplash.com/photo-151082"
+  },
+  {
+    "judul": "Teknologi Tanam Otomatis",
+    "deskripsi": "Teknologi Tanam Otomatis. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Pangan & Pertanian",
+    "gambar": "https://images.unsplash.com/photo-151083"
+  },
+  {
+    "judul": "Makan Sehat, Beli Dekat",
+    "deskripsi": "Makan Sehat, Beli Dekat. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Pangan & Pertanian",
+    "gambar": "https://images.unsplash.com/photo-151084"
+  },
+  {
+    "judul": "Pemimpin Tanpa Jabatan",
+    "deskripsi": "Pemimpin Tanpa Jabatan. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Kepemimpinan & Kepemudaan",
+    "gambar": "https://images.unsplash.com/photo-151085"
+  },
+  {
+    "judul": "Gerakan Akar Rumput",
+    "deskripsi": "Gerakan Akar Rumput. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Kepemimpinan & Kepemudaan",
+    "gambar": "https://images.unsplash.com/photo-151086"
+  },
+  {
+    "judul": "Dari Komunitas ke Perubahan",
+    "deskripsi": "Dari Komunitas ke Perubahan. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Kepemimpinan & Kepemudaan",
+    "gambar": "https://images.unsplash.com/photo-151087"
+  },
+  {
+    "judul": "Mentor Sebaya",
+    "deskripsi": "Mentor Sebaya. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Kepemimpinan & Kepemudaan",
+    "gambar": "https://images.unsplash.com/photo-151088"
+  },
+  {
+    "judul": "Kepemudaan di Era Viral",
+    "deskripsi": "Kepemudaan di Era Viral. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Kepemimpinan & Kepemudaan",
+    "gambar": "https://images.unsplash.com/photo-151089"
+  },
+  {
+    "judul": "Saling Jaga di Dunia Nyata",
+    "deskripsi": "Saling Jaga di Dunia Nyata. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Sosial & Masyarakat",
+    "gambar": "https://images.unsplash.com/photo-151090"
+  },
+  {
+    "judul": "Kampanye Sosial Efektif",
+    "deskripsi": "Kampanye Sosial Efektif. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Sosial & Masyarakat",
+    "gambar": "https://images.unsplash.com/photo-151091"
+  },
+  {
+    "judul": "Komunitas dan Teknologi",
+    "deskripsi": "Komunitas dan Teknologi. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Sosial & Masyarakat",
+    "gambar": "https://images.unsplash.com/photo-151092"
+  },
+  {
+    "judul": "Bersolidaritas Tanpa Batas",
+    "deskripsi": "Bersolidaritas Tanpa Batas. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Sosial & Masyarakat",
+    "gambar": "https://images.unsplash.com/photo-151093"
+  },
+  {
+    "judul": "Gerakan Tanpa Lembaga",
+    "deskripsi": "Gerakan Tanpa Lembaga. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Sosial & Masyarakat",
+    "gambar": "https://images.unsplash.com/photo-151094"
+  },
+  {
+    "judul": "Konten Ramah Disabilitas",
+    "deskripsi": "Konten Ramah Disabilitas. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Inklusi & Kesetaraan",
+    "gambar": "https://images.unsplash.com/photo-151095"
+  },
+  {
+    "judul": "Kesetaraan di Dunia Coding",
+    "deskripsi": "Kesetaraan di Dunia Coding. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Inklusi & Kesetaraan",
+    "gambar": "https://images.unsplash.com/photo-151096"
+  },
+  {
+    "judul": "Perempuan di Ruang Publik",
+    "deskripsi": "Perempuan di Ruang Publik. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Inklusi & Kesetaraan",
+    "gambar": "https://images.unsplash.com/photo-151097"
+  },
+  {
+    "judul": "Bahasa Isyarat Digital",
+    "deskripsi": "Bahasa Isyarat Digital. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Inklusi & Kesetaraan",
+    "gambar": "https://images.unsplash.com/photo-151098"
+  },
+  {
+    "judul": "Representasi yang Bermakna",
+    "deskripsi": "Representasi yang Bermakna. Sebuah isu yang semakin relevan dan tak bisa diabaikan.",
+    "kategori": "Inklusi & Kesetaraan",
+    "gambar": "https://images.unsplash.com/photo-151099"
+  }
+]

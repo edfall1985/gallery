@@ -1,12 +1,87 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Public Folder</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>public/index.html</title>
+  <link rel="stylesheet" href="/style/gallery.css">
+  <style>
+    /* === STYLE DASAR HALAMAN === */
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 1rem;
+      background-color: #f4f4f4;
+    }
+    h1 {
+      text-align: center;
+    }
+
+    /* === BAR FILTER (KATEGORI & SEARCH) === */
+    .filter-bar {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+    }
+    .filter-bar input,
+    .filter-bar select {
+      padding: 0.5rem;
+      font-size: 1rem;
+    }
+
+    /* === TATA LETAK GALERI KONTEN === */
+    #gallery-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 1rem;
+    }
+
+    /* === KARTU KONTEN (ISI) === */
+    .konten-card {
+      background: white;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      transition: transform 0.2s ease;
+    }
+    .konten-card:hover {
+      transform: translateY(-4px);
+    }
+    .konten-gambar {
+      width: 100%;
+      height: 240px;
+      object-fit: cover;
+    }
+    .konten-info {
+      padding: 0.75rem;
+    }
+    .konten-judul {
+      font-size: 1.1rem;
+      margin: 0 0 0.5rem 0;
+    }
+    .konten-deskripsi {
+      font-size: 0.95rem;
+      color: #555;
+    }
+  </style>
 </head>
 <body>
-  <h1>Public Folder</h1>
-  <p>Halaman publik umum seperti landing page, info pameran, atau showcase karya.</p>
+  <!-- === HEADER UTAMA HALAMAN === -->
+  <h1>Galeri Konten Publik</h1>
+
+  <!-- === FILTER KATEGORI & SEARCH JUDUL === -->
+  <div class="filter-bar">
+    <!-- Dropdown filter kategori otomatis dari data -->
+    <select id="filter-kategori"></select>
+    <!-- Input pencarian berdasarkan judul konten -->
+    <input type="text" id="search-judul" placeholder="Cari berdasarkan judul...">
+  </div>
+
+  <!-- === TEMPAT MENAMPILKAN SEMUA KONTEN === -->
+  <div id="gallery-container"></div>
+
+  <!-- === SCRIPT GALLERY (READ MODE) === -->
+  <script src="/js/gallery.js"></script>
 </body>
 </html>

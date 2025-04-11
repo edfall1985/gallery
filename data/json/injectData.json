@@ -1,0 +1,393 @@
+[
+  {
+    "judul": "Masa Depan Kecerdasan Buatan",
+    "kategori": "Teknologi & Inovasi",
+    "deskripsi": "AI makin jenius. Tapi lo? Makin adaptif... atau makin dikuasai?",
+    "gambar": "https://images.unsplash.com/photo-1581090700227-1e8e1f09f361?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Blockchain di Luar Kripto",
+    "kategori": "Teknologi & Inovasi",
+    "deskripsi": "Katanya desentralisasi. Tapi kenapa yang ngatur tetap elite digital?",
+    "gambar": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Revolusi 6G",
+    "kategori": "Teknologi & Inovasi",
+    "deskripsi": "Koneksi makin cepat. Tapi percakapan antar manusia? Makin singkat.",
+    "gambar": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Robotika dalam Kehidupan Sehari-hari",
+    "kategori": "Teknologi & Inovasi",
+    "deskripsi": "Robot bantu lo kerja. Tapi siapa yang bantu lo tetap jadi manusia?",
+    "gambar": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Inovasi Startup 2025",
+    "kategori": "Teknologi & Inovasi",
+    "deskripsi": "Lo bikin startup buat solusi? Atau cuma biar bisa foto bareng investor?",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Belajar Tanpa Batas",
+    "kategori": "Pendidikan & Literasi",
+    "deskripsi": "Ilmu itu bebas. Tapi siapa yang tentuin aksesnya?",
+    "gambar": "https://images.unsplash.com/photo-1581090700227-1e8e1f09f361?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Sekolah Digital vs Konvensional",
+    "kategori": "Pendidikan & Literasi",
+    "deskripsi": "Tablet boleh canggih, tapi apakah semua murid ikut tumbuh?",
+    "gambar": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Literasi Finansial Remaja",
+    "kategori": "Pendidikan & Literasi",
+    "deskripsi": "Remaja bisa pegang crypto, tapi ngerti cara nabung gak?",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Pendidikan Emosional",
+    "kategori": "Pendidikan & Literasi",
+    "deskripsi": "Ranking itu penting. Tapi pernah gak lo diajarin cara ngadepin kecewa?",
+    "gambar": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Membaca Zaman Sekarang",
+    "kategori": "Pendidikan & Literasi",
+    "deskripsi": "Lo baca status, tapi kapan terakhir baca buku?",
+    "gambar": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Rahasia Pola Tidur Baik",
+    "kategori": "Kesehatan & Gaya Hidup",
+    "deskripsi": "Lo capek, tapi gak bisa tidur. Mungkin bukan badan lo yang lelah\u2014tapi pikiran lo.",
+    "gambar": "https://images.unsplash.com/photo-1581092919534-535362a1d793?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Mental Health Bukan Sekadar Trend",
+    "kategori": "Kesehatan & Gaya Hidup",
+    "deskripsi": "Lo gak lebay. Lo gak drama. Lo cuma manusia yang capek nahan semuanya sendiri.",
+    "gambar": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Hidup Sehat di Era Digital",
+    "kategori": "Kesehatan & Gaya Hidup",
+    "deskripsi": "Workout 10 menit, scroll 5 jam. Sehat gak cuma di badan, tapi juga di pikiran.",
+    "gambar": "https://images.unsplash.com/photo-1581090700227-1e8e1f09f361?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Makanan Fungsional",
+    "kategori": "Kesehatan & Gaya Hidup",
+    "deskripsi": "Lo makan buat kenyang, atau buat sembuh? Tubuh lo tau jawabannya.",
+    "gambar": "https://images.unsplash.com/photo-1581092919534-535362a1d793?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Work-Life Balance",
+    "kategori": "Kesehatan & Gaya Hidup",
+    "deskripsi": "Laptop lo istirahat. Tapi lo? Masih kepikiran kerja jam 2 pagi.",
+    "gambar": "https://images.unsplash.com/photo-1618005198919-d3d4b5a92c65?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Masa Depan Uang Digital",
+    "kategori": "Ekonomi & Keuangan",
+    "deskripsi": "Lo dompetnya tipis, tapi HP lo bisa beli saham. Ironi digital?",
+    "gambar": "https://images.unsplash.com/photo-1537432376769-00a2b38cb0da?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Ekonomi Kreatif di Desa",
+    "kategori": "Ekonomi & Keuangan",
+    "deskripsi": "Dari desa, bisa bikin dunia sadar: karya gak harus lahir di kota.",
+    "gambar": "https://images.unsplash.com/photo-1558898568-42e91881c3d5?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Tips Finansial Gen Z",
+    "kategori": "Ekonomi & Keuangan",
+    "deskripsi": "Ngopi boleh. Tapi investasi juga dong.",
+    "gambar": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Mengenal ESG Investing",
+    "kategori": "Ekonomi & Keuangan",
+    "deskripsi": "Cuan itu penting. Tapi jangan lupa: bumi cuma satu.",
+    "gambar": "https://images.unsplash.com/photo-1581090700227-1e8e1f09f361?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Bisnis Tanpa Modal",
+    "kategori": "Ekonomi & Keuangan",
+    "deskripsi": "Modal itu perlu. Tapi niat, tekad, dan wifi juga gak kalah penting.",
+    "gambar": "https://images.unsplash.com/photo-1614064641938-bcc4bbaa5221?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Generasi Muda dan Pemilu",
+    "kategori": "Politik & Pemerintahan",
+    "deskripsi": "Pemilu bukan warisan orang tua lo. Itu tanggung jawab lo hari ini.",
+    "gambar": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Digitalisasi Layanan Publik",
+    "kategori": "Politik & Pemerintahan",
+    "deskripsi": "Situsnya sih modern. Tapi pelayanannya? Masih pake budaya 'nanti aja'.",
+    "gambar": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Hoaks Politik: Siapa Diuntungkan?",
+    "kategori": "Politik & Pemerintahan",
+    "deskripsi": "Lo share berita? Atau lo bantu nyebar agenda?",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Politik Uang di Era Cashless",
+    "kategori": "Politik & Pemerintahan",
+    "deskripsi": "Transfer udah cashless. Tapi sogokan masih jalan.",
+    "gambar": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Kritik vs Nyinyir",
+    "kategori": "Politik & Pemerintahan",
+    "deskripsi": "Lo kritik... dibilang nyinyir. Lo diem... dibilang apatis. Mau lo apa?",
+    "gambar": "https://images.unsplash.com/photo-1573497019414-b8d87734a5a2?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Energi Terbarukan Rumah Tangga",
+    "kategori": "Lingkungan & Energi",
+    "deskripsi": "Tenaga surya makin murah. Tapi niat buat pasang? Masih mahal.",
+    "gambar": "https://images.unsplash.com/photo-1614064641938-bcc4bbaa5221?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Hijau Itu Keren",
+    "kategori": "Lingkungan & Energi",
+    "deskripsi": "Ngeposting tanaman di IG boleh. Tapi nanemnya kapan?",
+    "gambar": "https://images.unsplash.com/photo-1537432376769-00a2b38cb0da?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Solusi Krisis Air",
+    "kategori": "Lingkungan & Energi",
+    "deskripsi": "Krisis air itu nyata. Dan sayangnya, gak semua bisa beli air dalam galon bermerk.",
+    "gambar": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Pertanian Berbasis Teknologi",
+    "kategori": "Lingkungan & Energi",
+    "deskripsi": "Kalau petani pinter pakai sensor, kenapa lo masih malas nanam ide?",
+    "gambar": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Sampah: Musuh atau Aset?",
+    "kategori": "Lingkungan & Energi",
+    "deskripsi": "Sampah gak salah. Kita aja yang males ngatur.",
+    "gambar": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Seniman Era Digital",
+    "kategori": "Seni & Kreativitas",
+    "deskripsi": "Kuas diganti stylus. Tapi jujur, ekspresinya makin liar.",
+    "gambar": "https://images.unsplash.com/photo-1618005198919-d3d4b5a92c65?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "NFT: Seni atau Spekulasi?",
+    "kategori": "Seni & Kreativitas",
+    "deskripsi": "Bilangnya karya. Tapi lo jualnya kayak saham.",
+    "gambar": "https://images.unsplash.com/photo-1558898568-42e91881c3d5?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Menulis di Tengah Kebisingan",
+    "kategori": "Seni & Kreativitas",
+    "deskripsi": "Semua teriak, lo nulis. Siapa yang lebih terdengar?",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Fotografi Emosional",
+    "kategori": "Seni & Kreativitas",
+    "deskripsi": "Lo bisa jepret. Tapi bisa gak, bikin orang ngerasa?",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Desain Grafis untuk Aktivisme",
+    "kategori": "Seni & Kreativitas",
+    "deskripsi": "Lo desain buat klien? Coba sekali-sekali buat perubahan.",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Majapahit 4.0?",
+    "kategori": "Sejarah & Budaya",
+    "deskripsi": "Lo bisa bikin startup, tapi kenal gak sama akar budaya lo?",
+    "gambar": "https://images.unsplash.com/photo-1573497019414-b8d87734a5a2?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Warisan Budaya Digital",
+    "kategori": "Sejarah & Budaya",
+    "deskripsi": "Cagar budaya kita pindah ke cloud. Tapi siapa yang jaga memorinya?",
+    "gambar": "https://images.unsplash.com/photo-1581092919534-535362a1d793?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Membaca Sejarah dari Meme",
+    "kategori": "Sejarah & Budaya",
+    "deskripsi": "Meme bisa ngasih pelajaran sejarah, kalau lo gak cuma ketawa.",
+    "gambar": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Tradisi vs Tren",
+    "kategori": "Sejarah & Budaya",
+    "deskripsi": "Ngikutin tren boleh. Tapi kalau ngelupain tradisi, lo kosong.",
+    "gambar": "https://images.unsplash.com/photo-1558898568-42e91881c3d5?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Generasi Baru Pencinta Museum",
+    "kategori": "Sejarah & Budaya",
+    "deskripsi": "Museum bukan buat orang tua aja. Sejarah bisa relevan kalau lo deketin.",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Hak Digital Warga Negara",
+    "kategori": "Hukum & HAM",
+    "deskripsi": "Kalau datamu bocor, masih merasa merdeka?",
+    "gambar": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Perlindungan Data Pribadi",
+    "kategori": "Hukum & HAM",
+    "deskripsi": "Scroll boleh. Tapi datamu harusnya gak bisa dijualbelikan dengan murah.",
+    "gambar": "https://images.unsplash.com/photo-1537432376769-00a2b38cb0da?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Hukum vs Etika Internet",
+    "kategori": "Hukum & HAM",
+    "deskripsi": "Gak semua yang legal itu etis. Apalagi di dunia digital.",
+    "gambar": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Keadilan Restoratif",
+    "kategori": "Hukum & HAM",
+    "deskripsi": "Balas dendam bikin lega. Tapi keadilan sejati bikin tenang.",
+    "gambar": "https://images.unsplash.com/photo-1549921296-3a6b22370d47?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Mengakses Bantuan Hukum",
+    "kategori": "Hukum & HAM",
+    "deskripsi": "Hukum itu katanya untuk semua. Tapi yang bisa bayar, lebih cepat dapet keadilan.",
+    "gambar": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Remote Kerja, Remote Tujuan?",
+    "kategori": "Karier & Produktivitas",
+    "deskripsi": "Lo kerja dari mana aja. Tapi lo tahu gak arah lo ke mana?",
+    "gambar": "https://images.unsplash.com/photo-1549921296-3a6b22370d47?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Skill Penting 2025",
+    "kategori": "Karier & Produktivitas",
+    "deskripsi": "Bukan cuma coding. Tapi juga ngerti kapan harus berhenti.",
+    "gambar": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Portfolio Digital vs CV",
+    "kategori": "Karier & Produktivitas",
+    "deskripsi": "CV lo cakep. Tapi hasil kerja lo bisa dibuka publik gak?",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Belajar Otodidak Itu Sah",
+    "kategori": "Karier & Produktivitas",
+    "deskripsi": "Gak punya ijazah? Bisa jadi lo lebih real daripada yang punya.",
+    "gambar": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Pekerja atau Kreator?",
+    "kategori": "Karier & Produktivitas",
+    "deskripsi": "Lo kerja buat target... atau buat legacy?",
+    "gambar": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Emosi di Era Emoji",
+    "kategori": "Relasi & Psikologi",
+    "deskripsi": "Tersenyum di chat, tapi nangis beneran. Siapa yang tahu?",
+    "gambar": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Bertumbuh Bersama",
+    "kategori": "Relasi & Psikologi",
+    "deskripsi": "Cinta itu bukan tentang memiliki. Tapi saling membiarkan tumbuh.",
+    "gambar": "https://images.unsplash.com/photo-1618005198919-d3d4b5a92c65?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Toxic Positivity?",
+    "kategori": "Relasi & Psikologi",
+    "deskripsi": "\u2018Yuk semangat!\u2019 kadang nyakitin juga loh.",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Kenali Dirimu Dulu",
+    "kategori": "Relasi & Psikologi",
+    "deskripsi": "Sebelum nyari pasangan, udah kenalan belum sama hati sendiri?",
+    "gambar": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Mencintai Tanpa Menghancurkan",
+    "kategori": "Relasi & Psikologi",
+    "deskripsi": "Kalau lo cinta, kenapa yang dicinta makin kehilangan dirinya?",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Podcast vs Radio",
+    "kategori": "Media & Komunikasi",
+    "deskripsi": "Sama-sama bicara. Tapi siapa yang benar-benar didengar?",
+    "gambar": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Bahasa di Media Sosial",
+    "kategori": "Media & Komunikasi",
+    "deskripsi": "Bahasanya santai. Tapi efeknya? Bisa jadi luka panjang.",
+    "gambar": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Clickbait dan Etika",
+    "kategori": "Media & Komunikasi",
+    "deskripsi": "Bikin penasaran itu seni. Tapi ngibul itu dosa digital.",
+    "gambar": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Jurnalisme Warga",
+    "kategori": "Media & Komunikasi",
+    "deskripsi": "Lo bisa jadi media. Tapi bisa gak, jadi jujur juga?",
+    "gambar": "https://images.unsplash.com/photo-1618005198919-d3d4b5a92c65?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Algoritma dan Perpecahan",
+    "kategori": "Media & Komunikasi",
+    "deskripsi": "Makin lo klik, makin lo dikurung dalam gelembung.",
+    "gambar": "https://images.unsplash.com/photo-1573497019414-b8d87734a5a2?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Hijrah Digital",
+    "kategori": "Agama & Spiritualitas",
+    "deskripsi": "Ngaji via podcast, berdakwah via Reels. Tapi hati udah ikut pindah belum?",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Doa di Dunia AI",
+    "kategori": "Agama & Spiritualitas",
+    "deskripsi": "Kalau semua di automatisasi... siapa yang masih percaya pada yang ghaib?",
+    "gambar": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Toleransi Sehari-hari",
+    "kategori": "Agama & Spiritualitas",
+    "deskripsi": "Lo gak bakar rumah ibadah. Tapi bisa gak, lo nahan komentar sarkas?",
+    "gambar": "https://images.unsplash.com/photo-1573497019414-b8d87734a5a2?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Ritual dan Refleksi",
+    "kategori": "Agama & Spiritualitas",
+    "deskripsi": "Ibadah itu bukan rutinitas. Tapi cermin: lo masih sadar siapa lo?",
+    "gambar": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?w=640&q=80&fit=crop"
+  },
+  {
+    "judul": "Agama di Linimasa",
+    "kategori": "Agama & Spiritualitas",
+    "deskripsi": "Lo posting ayat tiap hari. Tapi apa lo sempat 'ngobrol' sama Tuhan hari ini?",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=640&q=80&fit=crop"
+  }
+  
+]

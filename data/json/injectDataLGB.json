@@ -1,0 +1,602 @@
+[
+  {
+    "judul": "Judul Otomatis 1",
+    "deskripsi": "Judul Otomatis 1. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 1",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 2",
+    "deskripsi": "Judul Otomatis 2. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 1",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 3",
+    "deskripsi": "Judul Otomatis 3. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 1",
+    "gambar": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 4",
+    "deskripsi": "Judul Otomatis 4. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 1",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 5",
+    "deskripsi": "Judul Otomatis 5. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 1",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 6",
+    "deskripsi": "Judul Otomatis 6. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 2",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 7",
+    "deskripsi": "Judul Otomatis 7. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 2",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 8",
+    "deskripsi": "Judul Otomatis 8. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 2",
+    "gambar": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 9",
+    "deskripsi": "Judul Otomatis 9. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 2",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 10",
+    "deskripsi": "Judul Otomatis 10. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 2",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 11",
+    "deskripsi": "Judul Otomatis 11. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 3",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 12",
+    "deskripsi": "Judul Otomatis 12. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 3",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 13",
+    "deskripsi": "Judul Otomatis 13. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 3",
+    "gambar": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 14",
+    "deskripsi": "Judul Otomatis 14. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 3",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 15",
+    "deskripsi": "Judul Otomatis 15. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 3",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 16",
+    "deskripsi": "Judul Otomatis 16. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 4",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 17",
+    "deskripsi": "Judul Otomatis 17. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 4",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 18",
+    "deskripsi": "Judul Otomatis 18. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 4",
+    "gambar": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 19",
+    "deskripsi": "Judul Otomatis 19. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 4",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 20",
+    "deskripsi": "Judul Otomatis 20. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 4",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 21",
+    "deskripsi": "Judul Otomatis 21. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 5",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 22",
+    "deskripsi": "Judul Otomatis 22. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 5",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 23",
+    "deskripsi": "Judul Otomatis 23. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 5",
+    "gambar": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 24",
+    "deskripsi": "Judul Otomatis 24. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 5",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 25",
+    "deskripsi": "Judul Otomatis 25. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 5",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 26",
+    "deskripsi": "Judul Otomatis 26. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 6",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 27",
+    "deskripsi": "Judul Otomatis 27. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 6",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 28",
+    "deskripsi": "Judul Otomatis 28. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 6",
+    "gambar": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 29",
+    "deskripsi": "Judul Otomatis 29. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 6",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 30",
+    "deskripsi": "Judul Otomatis 30. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 6",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 31",
+    "deskripsi": "Judul Otomatis 31. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 7",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 32",
+    "deskripsi": "Judul Otomatis 32. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 7",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 33",
+    "deskripsi": "Judul Otomatis 33. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 7",
+    "gambar": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 34",
+    "deskripsi": "Judul Otomatis 34. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 7",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 35",
+    "deskripsi": "Judul Otomatis 35. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 7",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 36",
+    "deskripsi": "Judul Otomatis 36. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 8",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 37",
+    "deskripsi": "Judul Otomatis 37. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 8",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 38",
+    "deskripsi": "Judul Otomatis 38. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 8",
+    "gambar": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 39",
+    "deskripsi": "Judul Otomatis 39. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 8",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 40",
+    "deskripsi": "Judul Otomatis 40. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 8",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 41",
+    "deskripsi": "Judul Otomatis 41. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 9",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 42",
+    "deskripsi": "Judul Otomatis 42. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 9",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 43",
+    "deskripsi": "Judul Otomatis 43. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 9",
+    "gambar": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 44",
+    "deskripsi": "Judul Otomatis 44. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 9",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 45",
+    "deskripsi": "Judul Otomatis 45. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 9",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 46",
+    "deskripsi": "Judul Otomatis 46. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 10",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 47",
+    "deskripsi": "Judul Otomatis 47. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 10",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 48",
+    "deskripsi": "Judul Otomatis 48. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 10",
+    "gambar": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 49",
+    "deskripsi": "Judul Otomatis 49. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 10",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 50",
+    "deskripsi": "Judul Otomatis 50. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 10",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 51",
+    "deskripsi": "Judul Otomatis 51. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 11",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 52",
+    "deskripsi": "Judul Otomatis 52. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 11",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 53",
+    "deskripsi": "Judul Otomatis 53. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 11",
+    "gambar": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 54",
+    "deskripsi": "Judul Otomatis 54. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 11",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 55",
+    "deskripsi": "Judul Otomatis 55. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 11",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 56",
+    "deskripsi": "Judul Otomatis 56. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 12",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 57",
+    "deskripsi": "Judul Otomatis 57. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 12",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 58",
+    "deskripsi": "Judul Otomatis 58. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 12",
+    "gambar": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 59",
+    "deskripsi": "Judul Otomatis 59. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 12",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 60",
+    "deskripsi": "Judul Otomatis 60. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 12",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 61",
+    "deskripsi": "Judul Otomatis 61. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 13",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 62",
+    "deskripsi": "Judul Otomatis 62. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 13",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 63",
+    "deskripsi": "Judul Otomatis 63. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 13",
+    "gambar": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 64",
+    "deskripsi": "Judul Otomatis 64. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 13",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 65",
+    "deskripsi": "Judul Otomatis 65. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 13",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 66",
+    "deskripsi": "Judul Otomatis 66. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 14",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 67",
+    "deskripsi": "Judul Otomatis 67. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 14",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 68",
+    "deskripsi": "Judul Otomatis 68. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 14",
+    "gambar": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 69",
+    "deskripsi": "Judul Otomatis 69. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 14",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 70",
+    "deskripsi": "Judul Otomatis 70. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 14",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 71",
+    "deskripsi": "Judul Otomatis 71. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 15",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 72",
+    "deskripsi": "Judul Otomatis 72. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 15",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 73",
+    "deskripsi": "Judul Otomatis 73. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 15",
+    "gambar": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 74",
+    "deskripsi": "Judul Otomatis 74. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 15",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 75",
+    "deskripsi": "Judul Otomatis 75. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 15",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 76",
+    "deskripsi": "Judul Otomatis 76. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 16",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 77",
+    "deskripsi": "Judul Otomatis 77. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 16",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 78",
+    "deskripsi": "Judul Otomatis 78. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 16",
+    "gambar": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 79",
+    "deskripsi": "Judul Otomatis 79. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 16",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 80",
+    "deskripsi": "Judul Otomatis 80. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 16",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 81",
+    "deskripsi": "Judul Otomatis 81. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 17",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 82",
+    "deskripsi": "Judul Otomatis 82. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 17",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 83",
+    "deskripsi": "Judul Otomatis 83. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 17",
+    "gambar": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 84",
+    "deskripsi": "Judul Otomatis 84. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 17",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 85",
+    "deskripsi": "Judul Otomatis 85. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 17",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 86",
+    "deskripsi": "Judul Otomatis 86. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 18",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 87",
+    "deskripsi": "Judul Otomatis 87. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 18",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 88",
+    "deskripsi": "Judul Otomatis 88. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 18",
+    "gambar": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 89",
+    "deskripsi": "Judul Otomatis 89. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 18",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 90",
+    "deskripsi": "Judul Otomatis 90. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 18",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 91",
+    "deskripsi": "Judul Otomatis 91. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 19",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 92",
+    "deskripsi": "Judul Otomatis 92. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 19",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 93",
+    "deskripsi": "Judul Otomatis 93. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 19",
+    "gambar": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 94",
+    "deskripsi": "Judul Otomatis 94. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 19",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 95",
+    "deskripsi": "Judul Otomatis 95. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 19",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 96",
+    "deskripsi": "Judul Otomatis 96. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 20",
+    "gambar": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 97",
+    "deskripsi": "Judul Otomatis 97. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 20",
+    "gambar": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 98",
+    "deskripsi": "Judul Otomatis 98. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 20",
+    "gambar": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 99",
+    "deskripsi": "Judul Otomatis 99. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 20",
+    "gambar": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?w=480&auto=format"
+  },
+  {
+    "judul": "Judul Otomatis 100",
+    "deskripsi": "Judul Otomatis 100. Sebuah ide yang layak disimak lebih dalam.",
+    "kategori": "Kategori 20",
+    "gambar": "https://images.unsplash.com/photo-1581092334549-0c4f4cdbde84?w=480&auto=format"
+  }
+]
